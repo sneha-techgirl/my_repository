@@ -1,0 +1,125 @@
+ #days {
+  color: aliceblue;
+  background-color: rgb(36, 2, 68);
+  height: 25px;
+  width: 25px;
+  padding: 5px 50px 5px 50px;
+  border: 2px solid black;
+ }
+
+ #d1 {
+  background-color: rgb(197, 147, 245);
+  height: 25px;
+  width: 25px;
+  padding: 5px 50px 5px 50px;
+  border: 2px solid black;
+ }
+
+ #per {
+  background-color: rgb(197, 147, 245);
+  height: 25px;
+  width: 20px;
+  padding: 5px 42px 5px 42px;
+  border: 2px solid black;
+  text-align: center;
+  font-weight: bold;
+ }
+
+ #blank {
+  color: aliceblue;
+  background-color: rgb(36, 2, 68);
+  height: 25px;
+  width: 1009px;
+  padding: 5px 50px 5px 50px;
+  border: 2px solid black;
+  text-align: center;
+  font-weight: 500;
+ }
+
+ 
+ #pno {
+  color: aliceblue;
+  background-color: rgb(36, 2, 68);
+  height: 25px;
+  width: 20px;
+  padding: 5px 42px 5px 42px;
+  border: 2px solid black;
+  text-align: center;
+  font-weight: 100px;
+  font-size: small;
+  font-family: sans-serif
+ }
+
+ #math {
+  background-color: rgb(253, 137, 137);
+  height: 25px;
+  width: 25px;
+  padding: 5px 50px 5px 50px;
+  border: 2px solid black;
+   font-size: small;
+  font-family:'Gill Sans MT';
+  font-weight: bold;
+ }
+
+ #cs {
+   background-color: rgb(137, 247, 162);
+  height: 25px;
+  width: 25px;
+  padding: 5px 50px 5px 50px;
+  border: 2px solid black;
+   font-size: small;
+  font-family:'Gill Sans MT';
+  font-weight: bold;
+ }
+
+ #aec {
+   background-color: rgb(118, 196, 245);
+  height: 25px;
+  width: 25px;
+  padding: 5px 50px 5px 50px;
+  border: 2px solid black;
+   font-size: small;
+  font-family:'Gill Sans MT';
+  font-weight: bold;
+ }
+
+ #mdc {
+  background-color: rgb(247, 245, 127);
+  height: 25px;
+  width: 25px;
+  padding: 5px 50px 5px 50px;
+  border: 2px solid black;
+   font-size: small;
+  font-family:'Gill Sans MT';
+  font-weight: bold;
+ }
+
+ #sec {
+   background-color: rgb(247, 151, 55);
+  height: 25px;
+  width: 25px;
+  padding: 5px 50px 5px 50px;
+  border: 2px solid black;
+   font-size: small;
+  font-family:'Gill Sans MT';
+  font-weight: bold;
+ }
+
+ #tuto {
+   background-color: rgb(247, 107, 191);
+  height: 25px;
+  width: 25px;
+  padding: 5px 50px 5px 50px;
+  border: 2px solid black;
+   font-size: small;
+  font-family:'Gill Sans MT';
+  font-weight: bold;
+ }
+
+ h1 {
+  text-align: center;
+ }
+
+ table {
+  border: 6px solid black;
+ }
